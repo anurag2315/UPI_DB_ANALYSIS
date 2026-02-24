@@ -56,7 +56,7 @@ This project focuses on analyzing **UPI (Unified Payments Interface) transaction
 ---
 
 ## ▶️ How to Use
-1. Download the `.pbix` file  
+1. Download the `UPI_DB_ANALYSIS.pbix` file  
 2. Open it using **Power BI Desktop**  
 3. Refresh data if needed  
 4. Explore interactive visuals 🚀  
